@@ -1,0 +1,10 @@
+@import '../utils/index.css';
+
+@import '../components/status-bar.css';
+@import '../components/logo.css';
+
+.center {
+  display: flex;
+  height: calc(100vh - 44px);
+  justify-content: center;
+}

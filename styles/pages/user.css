@@ -1,0 +1,8 @@
+@import '../utils/index.css';
+
+@import '../components/status-bar.css';
+@import '../components/profile-list.css';
+
+#animation {
+  animation: page-load 0.6s ease;
+}
